@@ -5,7 +5,7 @@
     "<Eric Harms <flowmade.css@gmail.com>>"
   ],
   "description": "The list-bare object removes the default list styles from lists.",
-  "main": "objects.list-bare-core.css",
+  "main": "_objects.list-bare.css",
   "keywords": [
     "flow",
     "css",
