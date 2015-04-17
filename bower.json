@@ -1,0 +1,16 @@
+{
+  "name": "flow-list-bare",
+  "version": "0.1.0",
+  "authors": [
+    "<Eric Harms <flowmade.css@gmail.com>>"
+  ],
+  "description": "The list-bare object removes the default list styles from lists.",
+  "main": "objects.list-bare-core.css",
+  "keywords": [
+    "flow",
+    "css",
+    "oocss",
+    "bem"
+  ],
+  "license": "Apache"
+}

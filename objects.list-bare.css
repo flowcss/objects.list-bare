@@ -1,0 +1,22 @@
+/* 
+   #list-bare
+   ========================================================================== */
+
+/**
+ * The list-bare object removes the default list styles from lists.
+ *
+ * <ul class="flow-list-bare">
+ *     <li></li>
+ *     <li></li>
+ *     <li></li>
+ *     <li></li>
+ * </ul>
+ *
+ * Thanks to Cardinal.
+ */
+
+ .flow-list-bare {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
